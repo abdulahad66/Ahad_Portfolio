@@ -1567,7 +1567,7 @@ button.stroke, .button.stroke {
  display: none;
   }
 .intro-social {
-    bottom: 7.2rem !important;  
+    bottom: 4.2rem !important;  
 }
 }
 
@@ -1603,5 +1603,4 @@ button.stroke, .button.stroke {
 .intro-social {
     bottom: 4.2rem !important;
 }
-
 }
