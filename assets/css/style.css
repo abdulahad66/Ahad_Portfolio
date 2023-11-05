@@ -1597,3 +1597,11 @@ button.stroke, .button.stroke {
   background: #ff8e28;
   border: 2px solid #ff8e28;
 }
+
+
+@media only screen and (max-width: 600px){
+.intro-social {
+    bottom: 4.2rem !important;
+}
+
+}
