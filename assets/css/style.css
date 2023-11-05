@@ -1560,3 +1560,40 @@ button.stroke, .button.stroke {
 .font-style{
   font-family: "Berkshire Swash", cursive;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .top_barAbout{
+ display: none;
+  }
+.intro-social {
+    bottom: 7.2rem !important;  
+}
+}
+
+
+
+@media (min-width: 720px) and (max-width: 992px) {
+ .intro-social {
+    bottom: 5.2rem !important;  
+}
+}
+
+@media only screen and (max-width: 365px) {
+  .top_barAbout1{
+ display: none;
+  }
+  .intro-social {
+    bottom: 4.2rem !important;
+}
+}
+
+
+
+.button_cls{
+  color: white;
+  border-radius: 10px;
+  padding: 5px 15px;
+  background: #ff8e28;
+  border: 2px solid #ff8e28;
+}
